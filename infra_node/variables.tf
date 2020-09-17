@@ -69,11 +69,6 @@ variable "system_type" {
     default = "s922"
 }
 
-variable "network_name" {
-    description = "The name of the network to be used for deploy operations"
-    default = "my_network_name"
-}
-
 variable "rhel_username" {
     default = "root"
 }

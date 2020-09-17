@@ -12,7 +12,6 @@ bastion                     = {memory = "4", processors = "1", "count" = 1}
 rhel_image_name             = "rhel-8.2"
 processor_type              = "shared"
 system_type                 = "s922"
-network_name                = "ocp-net"
 
 rhel_username               = "root"
 

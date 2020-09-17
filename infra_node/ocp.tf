@@ -13,7 +13,6 @@ module "prepare" {
     rhel_image_name                 = var.rhel_image_name
     processor_type                  = var.processor_type
     system_type                     = var.system_type
-    network_name                    = var.network_name
     rhel_username                   = var.rhel_username
     public_key                      = local.public_key
 }

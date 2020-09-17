@@ -34,6 +34,5 @@ variable "public_key" {}
 
 variable "processor_type" {}
 variable "system_type" {}
-variable "network_name" {}
 
 variable "rhel_username" {}
